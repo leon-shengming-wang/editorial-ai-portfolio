@@ -43,3 +43,10 @@ My work includes AI response comparison and quality review, alongside newspaper 
 ## Detailed demonstration
 
 [Case 01: News fidelity, numbers, conditions, and attribution](case-01-news-fidelity.md) — an original fictional, AI-assisted Chinese-news comparison with an evidence table and editing trade-offs. Draft for learning and discussion; Leon has not yet reviewed or approved its judgments.
+
+
+## 中文交互评测演示
+
+[一句回答，怎样判断好坏？（HTML 源文件）](evaluation-walkthrough.html)
+
+五个原创模拟场景，按关键事实、回应用户、文字表达逐步记录判断，最后生成可下载的评测记录。请在文件页点击 Download raw file，下载后用浏览器打开；GitHub 文件预览本身不会运行交互。无音频，因此不评价音质、语调或延迟。AI 辅助制作，待 Leon 亲自审阅；不是客户任务或平台统一评分规则。
