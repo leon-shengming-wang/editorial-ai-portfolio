@@ -51,16 +51,16 @@ These are proposed review rules for this exercise, not a claim about any platfor
 
 **社区中心拟开免费电脑培训，仍待资助获批**
 
-中心称，计划明春提供最多120个名额，约40个可能有中文支持；报名和人员安排尚未确定。
+中心称，计划明春提供最多120个名额，约40个可能有中文支持；报名尚未开始，人员安排待定。
 
-**Trade-off:** This shorter version loses the Tuesday attribution date and softens “registration has not opened” into a broader statement. If that precision matters, keep Candidate A rather than shortening further. A real layout decision would also require checking actual line breaks and available space in InDesign; this Markdown file does not demonstrate a completed page layout.
+**Trade-off:** This shorter version omits Tuesday, the date of the statement. Keep Candidate A if that timing is important to the story. A real layout decision would also require checking actual line breaks and available space in InDesign; this Markdown file does not demonstrate a completed page layout.
 
 ## Review checklist for Leon
 
 - [ ] Does the Chinese sound natural to you?
 - [ ] Would you change the headline or the preference? Explain why.
 - [ ] Which facts must survive a tighter newspaper column?
-- [ ] Is “registration has not opened” better preserved explicitly in the shorter version?
+- [ ] Does the shorter version preserve the registration status and other essential qualifications?
 - [ ] Add your own revision and reasoning before describing this as your reviewed work.
 
 ## Limits and provenance
