@@ -38,3 +38,8 @@ In a full review I would also consider instruction-following, clarity, and other
 ## Experience and interests
 
 My work includes AI response comparison and quality review, alongside newspaper editing and page design. I’m interested in multimodal evaluation, AI agents, and practical tools for editorial workflows. These examples explain methods without sharing client materials.
+
+
+## Detailed demonstration
+
+[Case 01: News fidelity, numbers, conditions, and attribution](case-01-news-fidelity.md) — an original fictional, AI-assisted Chinese-news comparison with an evidence table and editing trade-offs. Draft for learning and discussion; Leon has not yet reviewed or approved its judgments.
